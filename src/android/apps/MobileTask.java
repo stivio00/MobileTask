@@ -1,6 +1,5 @@
 package android.apps;
 
-//
 import android.app.Activity;
 import android.os.Bundle;
 
