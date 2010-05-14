@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, MobileTask!</string>
     <string name="app_name">Mobile Task</string>
+<string name="titleText">Mobile Task</string>
 </resources>
